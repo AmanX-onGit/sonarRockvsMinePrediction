@@ -1,1 +1,1 @@
-# sonarRockvsMinePrediction
+This project analyzes the Sonar dataset to classify objects as rocks or mines based on sonar signals. Using logistic regression, the model predicts object types with labeled data. The goal is to demonstrate classification in machine learning, showcasing preprocessing, model training, and predictive capabilities on sonar signal data.
